@@ -1,5 +1,0 @@
-@Library('devops-shared-library') _
-
-ciPipeline(
-    application: 'devops-user-service'
-)
