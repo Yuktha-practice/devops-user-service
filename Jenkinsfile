@@ -4,5 +4,6 @@ ciPipeline(
     application: 'devops-user-service',
     type: 'java',
     ecrRepository: 'devops-user-service',
-    awsRegion: 'eu-north-1'
+    awsRegion: 'eu-north-1',
+    sonarProjectKey: 'devops-user-service'
 )
